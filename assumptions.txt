@@ -1,0 +1,5 @@
+Assumptions:
+
+- An art object cannot be created by many artists.
+- ART_OBJECTS are the center piece of the database, so all relationships are to weak entities that wouldnt have existed otherwise.
+- Assume that Sculpture and Statue are different
